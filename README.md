@@ -29,12 +29,13 @@ The script performs the following steps:
     - Comparison with the previous week’s earnings.
     - Highlighted changes in earnings.
 5. **Report Storage**: Saves the generated report in the designated directory (`earnings_report_kyoto_machiyas`).
+6. **Email Notifications**: Automatically sends the generated reports via email to designated stakeholders.
 
 ## Benefits to the Company
 
 The automation of the earnings report generation brought several key benefits to the company:
 
-1. **Time Savings**: Reduced the time required to compile weekly earnings reports from several hours to just a few minutes.
+1. **Time Savings**: Reduced the time required to compile weekly earnings reports from several hours to just a few minutes checking the automated email.
 2. **Increased Accuracy**: Minimized human errors in data extraction and calculation, ensuring more reliable reports.
 3. **Consistency**: Provided a standardized format for earnings reports, making it easier to track performance over time.
 4. **Scalability**: Enabled the company to handle an increasing volume of data without a corresponding increase in workload.
@@ -44,8 +45,7 @@ The automation of the earnings report generation brought several key benefits to
 While the current version of the script has greatly improved the reporting process, there are several areas for future enhancements:
 
 1. **Data Visualization**: Incorporate charts and graphs into the Excel report for better data visualization.
-2. **Email Notifications**: Automatically send the generated reports via email to designated stakeholders.
-3. **Real-time Reporting**: Develop real-time reporting capabilities to provide up-to-the-minute sales data.
+2. **Real-time Reporting**: Develop real-time reporting capabilities to provide up-to-the-minute sales data.
 
 ## Acknowledgements
 
