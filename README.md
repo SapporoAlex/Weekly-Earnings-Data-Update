@@ -1,8 +1,16 @@
+<style>
+    .center {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10;
+    }
+</style>
+
 # Kyoto Machiya Earnings Report Automation
 
 This repository contains a script developed to automate the generation of weekly earnings reports for Kyoto Machiyas. The automation significantly improved the efficiency and accuracy of sales data reporting for the company.
 
-<img src="https://github.com/SapporoAlex/Weekly-Earnings-Data-Update/blob/main/preview.jpg" align="center" margin-top="10">
+<img src="https://github.com/SapporoAlex/Weekly-Earnings-Data-Update/blob/main/preview.jpg" class="center">
 <figcaption margin-bottom="10"><a href="https://github.com/SapporoAlex/Weekly-Earnings-Data-Update/blob/main/preview%20larger.jpg">larger</a></figcaption>
 
 ## Table of Contents
